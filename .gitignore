@@ -29,8 +29,8 @@ out/
 /.nb-gradle/
 
 ### VS Code ###
-.vscode/
 
+.vscode/
 ### Package Files ###
 *.jar
 *.war
